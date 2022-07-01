@@ -1,0 +1,22 @@
+:root {
+    --main-bg-color: #fcf2d4;
+  }
+
+body{
+    background-color:var(--main-bg-color)
+}
+
+
+
+#hero-logo{
+}
+
+#hero-logo img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 100%;
+}
